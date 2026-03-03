@@ -1,5 +1,5 @@
 /**
- * UC1 - Print OOPS to Console
+ * UC2 - Print OOPS to Console
  *
  * @author Kriti
  * @version 1.0
